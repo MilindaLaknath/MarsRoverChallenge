@@ -1,13 +1,13 @@
 # MarsRoverChallenge
 Mars Rover Challenge Solution
 
-####Build the project
+#### Build the project
 
 ```
 mvn clean install
 ```
 
-####Run the project
+#### Run the project
 ```
 java -jar target/MarsRoverChallenge-1.0.jar
 or
